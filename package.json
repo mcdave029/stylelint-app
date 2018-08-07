@@ -1,5 +1,9 @@
 {
   "name": "stylelint-app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^9.4.0",
+    "stylelint-config-standard": "^18.2.0"
+  }
 }
