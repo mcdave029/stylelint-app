@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+.sample {
+  .sample {
+    .sample {
+      .sample {
+        .sample {
+          .sample {
+            .sample {
+              /* to reproduce errors*/
+            }
+          }
+        }
+      }
+    }
+  }
+}
